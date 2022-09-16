@@ -11,5 +11,7 @@ public interface IResult {
 	public void profileEdit();
 	
 	public void profileNameEdit();
+	
+	public void profileNameUserNameHide();
 }
 
