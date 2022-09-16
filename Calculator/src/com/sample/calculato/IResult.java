@@ -10,6 +10,7 @@ public interface IResult {
 	public void profile();
 	public void profileEdit();
 	
+	public void profileNameUserNameVisible();
 	public void profileNameEdit();
 	
 	public void profileNameUserNameHide();
