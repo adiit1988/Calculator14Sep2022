@@ -6,7 +6,7 @@ public interface IResult {
 	
 	public void display();
 	public void hide();
-	
+	public void profileNameUserNameProcess();
 	public void profile();
 	public void profileEdit();
 	
