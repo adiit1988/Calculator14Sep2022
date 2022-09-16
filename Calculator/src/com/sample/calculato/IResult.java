@@ -7,8 +7,8 @@ public interface IResult {
 	public void display();
 	public void hide();
 	
-	
-	
+	public void profileNameUserNameVisible();
+		
 	public void profileNameEdit();
 	
 	public void profileNameUserNameHide();
