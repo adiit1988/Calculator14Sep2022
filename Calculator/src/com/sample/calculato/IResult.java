@@ -14,5 +14,7 @@ public interface IResult {
 	public void profileNameEdit();
 	
 	public void profileNameUserNameHide();
+	public void addition();
+	public void profilePictureUpdate();
 }
 
